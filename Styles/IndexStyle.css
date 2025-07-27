@@ -16,7 +16,7 @@
     flex-direction: column;
     justify-content: center; /* vertical centering */
     padding: 5px;
-    font-size: 1.15rem; /* larger, readable text */
+    font-size: 1 rem; /* larger, readable text */
     line-height: 1.6;
 }
 
