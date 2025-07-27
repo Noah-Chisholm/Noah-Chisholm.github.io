@@ -1,0 +1,30 @@
+#AAMContainer {
+	display: flex;
+	gap: 5px;
+	padding: 5px;
+}
+
+#MyFaceImg {
+	width: 600px;
+	height: 800px;
+	object-fit: cover;
+}
+
+#TextContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* vertical centering */
+    padding: 5px;
+    font-size: 1.15rem; /* larger, readable text */
+    line-height: 1.6;
+}
+
+#AllAboutMe {
+	flex-grow: 1; /* Expand to fill space */
+	margin-bottom: 10px;
+}
+
+#AAMLastUpdate {
+	text-align: center;
+}
